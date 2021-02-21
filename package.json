@@ -40,12 +40,12 @@
   "author": "D2L Corporation",
   "license": "Apache-2.0",
   "devDependencies": {
+    "@babel/eslint-parser": "^7.12.17",
     "@brightspace-ui/stylelint-config": "^0.0.3",
     "@open-wc/testing": "^2",
     "@open-wc/testing-karma": "^4",
     "@webcomponents/webcomponentsjs": "^2",
     "axe-core": "^4",
-    "babel-eslint": "^10",
     "chalk": "^4",
     "deepmerge": "^4.2.2",
     "es-dev-server": "^2",
